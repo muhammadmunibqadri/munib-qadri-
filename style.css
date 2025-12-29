@@ -1,0 +1,39 @@
+tyle>
+        body {
+            font-family: 'Roboto', sans-serif;
+        }
+
+        /* Top Bar */
+        .top-bar {
+            background: #212934;
+            color: #fff;
+            font-size: 13px;
+        }
+
+        /* Navbar */
+        .navbar-brand {
+            font-size: 32px;
+            color: #59ab6e !important;
+            font-weight: 500;
+        }
+
+        /* Hero Section */
+        .hero {
+            background: #efefef;
+            min-height: 80vh;
+        }
+
+        .hero h1 {
+            font-weight: 300;
+            font-size: 48px;
+        }
+
+        .hero h2 {
+            font-weight: 300;
+            font-size: 26px;
+            color: #666;
+        }
+
+        .hero p {
+            color: #777;
+        }
