@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Top bar */
+.info-bar {
+    background-color: #212934;
+    color: white;
+    padding: 8px 0;
+    font-size: 14px;
+}
+
+/* Brand */
+.navbar-brand {
+    color: #59ab6e !important;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+/* About section */
+.about-section {
+    min-height: 100vh;
+    background: linear-gradient(135deg, #59ab6e, #7dd56f);
+    display: flex;
+    align-items: center;
+}
+
+.about-section h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.about-section p {
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+/* Image */
+.about-section img {
+    max-width: 300px;
+}
